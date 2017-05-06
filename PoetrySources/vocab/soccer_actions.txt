@@ -1,0 +1,11 @@
+crosses
+penalities
+free kicks
+goals
+celebrations
+flicks
+elasticos
+faints
+shots
+passes
+throw ins

@@ -1,0 +1,1768 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        <meta name="description" content="Raphaël Varane plays as a centre back for Real Madrid. In FIFA 17, Varane got a rating of 84 and a potential of 91. View all his stats at FIFA Index.">
+    
+        
+        
+    
+    <link rel="icon" href="/favicon.ico">
+    <link rel="alternate" hreflang="ar" href="/ar/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="cs" href="/cs/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="da" href="/da/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="de" href="/de/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="en" href="/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="es" href="/es/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="es-mx" href="/es-mx/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="fr" href="/fr/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="it" href="/it/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="ja" href="/ja/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="hu" href="/hu/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="nl" href="/nl/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="no" href="/no/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="pl" href="/pl/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="pt" href="/pt/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="pt-br" href="/pt-br/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="ru" href="/ru/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="sv" href="/sv/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="tr" href="/tr/player/201535/rapha%C3%ABl-varane/"><link rel="alternate" hreflang="zh-hant" href="/zh-hant/player/201535/rapha%C3%ABl-varane/">
+    
+<link rel="canonical" href="https://www.fifaindex.com/player/201535/rapha%C3%ABl-varane/" />
+<meta property="og:url" content="https://www.fifaindex.com/player/201535/rapha%C3%ABl-varane/" />
+<meta property="og:title" content="Raphaël Varane - FIFA 17 - Player Stats" />
+
+<meta property="og:description" content="Raphaël Varane plays as a centre back for Real Madrid. In FIFA 17, Varane got a rating of 84 and a potential of 91. View all his stats at FIFA Index." />
+
+<meta property="og:image" content="https://www.fifaindex.com/static/FIFA17/images/players/128/201535.png" />
+
+    <title>Raphaël Varane - FIFA 17 - Player Stats - FIFA Index</title>
+    <link rel="stylesheet" href="/static/CACHE/css/b064beeba9c8.css" type="text/css" />
+    <link rel="stylesheet" href="/static/CACHE/css/12cbeaa6c2e8.css" type="text/css" />
+    <link rel="stylesheet" href="/static/CACHE/css/d4f9963fe0a5.css" type="text/css" />
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:600,400,300' rel='stylesheet' type='text/css'>
+      <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/static/app/images/icons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/app/images/icons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/app/images/icons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/app/images/icons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/static/app/images/icons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static/app/images/icons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/app/images/icons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/app/images/icons/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/static/app/images/icons/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/static/app/images/icons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/static/app/images/icons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/static/app/images/icons/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/static/app/images/icons/favicon-128.png" sizes="128x128" />
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-67914106-1', 'auto');
+    ga('set', 'anonymizeIp', true);
+    ga('set', 'forceSSL', true);
+    ga('require', 'GTM-MXPJNLM');
+    ga('send', 'pageview');
+    </script>
+    
+    
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1084869347367097",
+    enable_page_level_ads: true
+  });
+</script>
+  </head>
+
+  <body>
+  
+  <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_EN/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+
+          <a class="navbar-brand" href="/">FIFA Index</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class=""><a href="/news/">News</a></li>
+            <li class=""><a href="/teams/">Teams</a></li>
+            <li class="active"><a href="/players/">Players</a></li>
+            <li class=""><a href="/squads/">Squads</a></li>
+            <li class=""><a href="/contact/">Contact</a></li>
+          </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">English <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/setlang/?language=ar&amp;next=/ar/player/201535/rapha%C3%ABl-varane/" rel="nofollow">العربيّة</a></li><li><a href="/setlang/?language=cs&amp;next=/cs/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Česky</a></li><li><a href="/setlang/?language=da&amp;next=/da/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Dansk</a></li><li><a href="/setlang/?language=de&amp;next=/de/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Deutsch</a></li><li><a href="/setlang/?language=en&amp;next=/player/201535/rapha%C3%ABl-varane/" rel="nofollow">English</a></li><li><a href="/setlang/?language=es&amp;next=/es/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Español</a></li><li><a href="/setlang/?language=es-mx&amp;next=/es-mx/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Español De México</a></li><li><a href="/setlang/?language=fr&amp;next=/fr/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Français</a></li><li><a href="/setlang/?language=it&amp;next=/it/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Italiano</a></li><li><a href="/setlang/?language=ja&amp;next=/ja/player/201535/rapha%C3%ABl-varane/" rel="nofollow">日本語</a></li><li><a href="/setlang/?language=hu&amp;next=/hu/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Magyar</a></li><li><a href="/setlang/?language=nl&amp;next=/nl/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Nederlands</a></li><li><a href="/setlang/?language=no&amp;next=/no/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Norsk</a></li><li><a href="/setlang/?language=pl&amp;next=/pl/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Polski</a></li><li><a href="/setlang/?language=pt&amp;next=/pt/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Português</a></li><li><a href="/setlang/?language=pt-br&amp;next=/pt-br/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Português Brasileiro</a></li><li><a href="/setlang/?language=ru&amp;next=/ru/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Русский</a></li><li><a href="/setlang/?language=sv&amp;next=/sv/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Svenska</a></li><li><a href="/setlang/?language=tr&amp;next=/tr/player/201535/rapha%C3%ABl-varane/" rel="nofollow">Türkçe</a></li><li><a href="/setlang/?language=zh-hant&amp;next=/zh-hant/player/201535/rapha%C3%ABl-varane/" rel="nofollow">繁體中文</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right logged-in">
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="username">AnonymousUser</span> <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="" class="my-squads">My Squads</a></li>
+                        <li><a href="/accounts/email/">E-mail Addresses</a></li>
+                        <li><a href="/accounts/social/connections/">Account Connections</a></li>
+                        <li><a href="/accounts/password/change/">Change Password</a></li>
+                        <li><a href="/accounts/logout/">Sign Out</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right not-logged-in">
+                <li><a href="/accounts/login/">Sign In</a></li>
+            </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div class="container main">
+        <script type="application/javascript" src="/user/messages.js"></script>
+        <div class="row"><div class="col-md-8 col-md-offset-2 messages"></div></div>
+
+        
+<div class="row">
+    
+
+
+
+
+
+
+
+
+<div class="col-md-4 filters">
+
+    
+        <div class="text-center hidden-xs" style="margin-bottom:10px;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1084869347367097"
+     data-ad-slot="2623930369"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+
+        <div class="text-center visible-xs" style="margin-bottom: 10px;">
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:320px;height:100px"
+     data-ad-client="ca-pub-1084869347367097"
+     data-ad-slot="5887156367"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+    
+
+    
+    
+    
+
+    
+        <form method="get" action="/players/">
+            
+                
+                    <div class="form-group"><label class="control-label" for="id_name">Name</label><input class="form-control" id="id_name" name="name" placeholder="Name" title="" type="text" /></div>
+                
+            
+                
+                    <div class="form-group"><label class="control-label" for="id_position">Position</label><select multiple="multiple" class="form-control" id="id_position" name="position" title="">
+<option value="0">GK</option>
+<option value="1">SW</option>
+<option value="2">RWB</option>
+<option value="3">RB</option>
+<option value="5">CB</option>
+<option value="7">LB</option>
+<option value="8">LWB</option>
+<option value="10">CDM</option>
+<option value="12">RM</option>
+<option value="14">CM</option>
+<option value="16">LM</option>
+<option value="18">CAM</option>
+<option value="21">CF</option>
+<option value="23">RW</option>
+<option value="25">ST</option>
+<option value="27">LW</option>
+</select></div>
+                
+            
+                
+                    <div class="form-group"><label class="control-label" for="id_nationality">Nationality</label><select multiple="multiple" class="form-control" id="id_nationality" name="nationality" title="">
+<option value="205">Gibraltar</option>
+<option value="204">Vanuatu</option>
+<option value="203">Tonga</option>
+<option value="202">Tahiti</option>
+<option value="201">Solomon Islands</option>
+<option value="200">Samoa</option>
+<option value="199">Papua New Guinea</option>
+<option value="198">New Zealand</option>
+<option value="197">Fiji</option>
+<option value="196">Cook Islands</option>
+<option value="195">Australia</option>
+<option value="194">American Samoa</option>
+<option value="193">Yemen</option>
+<option value="192">Vietnam</option>
+<option value="191">Uzbekistan</option>
+<option value="190">United Arab Emirates</option>
+<option value="189">Turkmenistan</option>
+<option value="188">Thailand</option>
+<option value="187">Tajikistan</option>
+<option value="186">Syria</option>
+<option value="185">Sri Lanka</option>
+<option value="184">Singapore</option>
+<option value="183">Saudi Arabia</option>
+<option value="182">Qatar</option>
+<option value="181">Philippines</option>
+<option value="180">Palestine</option>
+<option value="179">Pakistan</option>
+<option value="178">Oman</option>
+<option value="177">Nepal</option>
+<option value="176">Myanmar</option>
+<option value="175">Mongolia</option>
+<option value="174">Maldives</option>
+<option value="173">Malaysia</option>
+<option value="172">Macau</option>
+<option value="171">Lebanon</option>
+<option value="170">Laos</option>
+<option value="169">Kyrgyzstan</option>
+<option value="168">Kuwait</option>
+<option value="167">Korea Republic</option>
+<option value="166">Korea DPR</option>
+<option value="165">Kazakhstan</option>
+<option value="164">Jordan</option>
+<option value="163">Japan</option>
+<option value="162">Iraq</option>
+<option value="161">Iran</option>
+<option value="160">Indonesia</option>
+<option value="159">India</option>
+<option value="158">Hong Kong</option>
+<option value="157">Guam</option>
+<option value="155">China PR</option>
+<option value="154">Cambodia</option>
+<option value="153">Brunei Darussalam</option>
+<option value="152">Bhutan</option>
+<option value="151">Bangladesh</option>
+<option value="150">Bahrain</option>
+<option value="149">Afghanistan</option>
+<option value="148">Zimbabwe</option>
+<option value="147">Zambia</option>
+<option value="146">Uganda</option>
+<option value="145">Tunisia</option>
+<option value="144">Togo</option>
+<option value="143">Tanzania</option>
+<option value="142">Swaziland</option>
+<option value="141">Sudan</option>
+<option value="140">South Africa</option>
+<option value="139">Somalia</option>
+<option value="138">Sierra Leone</option>
+<option value="137">Seychelles</option>
+<option value="136">Senegal</option>
+<option value="135">São Tomé &amp; Príncipe</option>
+<option value="134">Rwanda</option>
+<option value="133">Nigeria</option>
+<option value="132">Niger</option>
+<option value="131">Namibia</option>
+<option value="130">Mozambique</option>
+<option value="129">Morocco</option>
+<option value="128">Mauritius</option>
+<option value="127">Mauritania</option>
+<option value="126">Mali</option>
+<option value="125">Malawi</option>
+<option value="124">Madagascar</option>
+<option value="123">Libya</option>
+<option value="122">Liberia</option>
+<option value="121">Lesotho</option>
+<option value="120">Kenya</option>
+<option value="119">Guinea Bissau</option>
+<option value="118">Guinea</option>
+<option value="117">Ghana</option>
+<option value="116">Gambia</option>
+<option value="115">Gabon</option>
+<option value="114">Ethiopia</option>
+<option value="113">Eritrea</option>
+<option value="112">Equatorial Guinea</option>
+<option value="111">Egypt</option>
+<option value="110">DR Congo</option>
+<option value="109">Djibouti</option>
+<option value="108">Ivory Coast</option>
+<option value="107">Congo</option>
+<option value="106">Chad</option>
+<option value="105">Central African Rep.</option>
+<option value="104">Cape Verde</option>
+<option value="103">Cameroon</option>
+<option value="102">Burundi</option>
+<option value="101">Burkina Faso</option>
+<option value="100">Botswana</option>
+<option value="99">Benin</option>
+<option value="98">Angola</option>
+<option value="97">Algeria</option>
+<option value="96">US Virgin Islands</option>
+<option value="95">United States</option>
+<option value="94">Turks &amp; Caicos</option>
+<option value="93">Trinidad &amp; Tobago</option>
+<option value="92">Suriname</option>
+<option value="91">St Vincent Grenadine</option>
+<option value="90">St Lucia</option>
+<option value="89">St Kitts Nevis</option>
+<option value="88">Puerto Rico</option>
+<option value="87">Panama</option>
+<option value="86">Nicaragua</option>
+<option value="85">Curacao</option>
+<option value="84">Montserrat</option>
+<option value="83">Mexico</option>
+<option value="82">Jamaica</option>
+<option value="81">Honduras</option>
+<option value="80">Haiti</option>
+<option value="79">Guyana</option>
+<option value="78">Guatemala</option>
+<option value="77">Grenada</option>
+<option value="76">El Salvador</option>
+<option value="75">International</option>
+<option value="74">Dominica</option>
+<option value="73">Cuba</option>
+<option value="72">Costa Rica</option>
+<option value="71">Cayman Islands</option>
+<option value="70">Canada</option>
+<option value="69">British Virgin Isles</option>
+<option value="68">Bermuda</option>
+<option value="67">Belize</option>
+<option value="66">Barbados</option>
+<option value="65">Bahamas</option>
+<option value="64">Aruba</option>
+<option value="63">Antigua &amp; Barbuda</option>
+<option value="62">Anguilla</option>
+<option value="61">Venezuela</option>
+<option value="60">Uruguay</option>
+<option value="59">Peru</option>
+<option value="58">Paraguay</option>
+<option value="57">Ecuador</option>
+<option value="56">Colombia</option>
+<option value="55">Chile</option>
+<option value="54">Brazil</option>
+<option value="53">Bolivia</option>
+<option value="52">Argentina</option>
+<option value="51">Serbia</option>
+<option value="50">Wales</option>
+<option value="49">Ukraine</option>
+<option value="48">Turkey</option>
+<option value="47">Switzerland</option>
+<option value="46">Sweden</option>
+<option value="45">Spain</option>
+<option value="44">Slovenia</option>
+<option value="43">Slovakia</option>
+<option value="42">Scotland</option>
+<option value="41">San Marino</option>
+<option value="40">Russia</option>
+<option value="39">Romania</option>
+<option value="38">Portugal</option>
+<option value="37">Poland</option>
+<option value="36">Norway</option>
+<option value="35">Northern Ireland</option>
+<option value="34">Netherlands</option>
+<option value="33">Moldova</option>
+<option value="32">Malta</option>
+<option value="219">Kosovo</option>
+<option value="218">South Sudan</option>
+<option value="216">Creation Centre</option>
+<option value="214">Comoros</option>
+<option value="213">Chinese Taipei</option>
+<option value="212">Timor-Leste</option>
+<option value="211">Rest of World</option>
+<option value="210">Free Agents</option>
+<option value="208">Estonia</option>
+<option value="207">Dominican Republic</option>
+<option value="206">Greenland</option>
+<option value="31">Luxembourg</option>
+<option value="30">Lithuania</option>
+<option value="29">Liechtenstein</option>
+<option value="28">Latvia</option>
+<option value="27">Italy</option>
+<option value="26">Israel</option>
+<option value="25">Republic of Ireland</option>
+<option value="24">Iceland</option>
+<option value="23">Hungary</option>
+<option value="22">Greece</option>
+<option value="21">Germany</option>
+<option value="20">Georgia</option>
+<option value="19">FYR Macedonia</option>
+<option value="18">France</option>
+<option value="17">Finland</option>
+<option value="16">Faroe Islands</option>
+<option value="15">Montenegro</option>
+<option value="14">England</option>
+<option value="13">Denmark</option>
+<option value="12">Czech Republic</option>
+<option value="11">Cyprus</option>
+<option value="10">Croatia</option>
+<option value="9">Bulgaria</option>
+<option value="8">Bosnia Herzegovina</option>
+<option value="7">Belgium</option>
+<option value="6">Belarus</option>
+<option value="5">Azerbaijan</option>
+<option value="4">Austria</option>
+<option value="3">Armenia</option>
+<option value="2">Andorra</option>
+<option value="1">Albania</option>
+</select></div>
+                
+            
+                
+                    <div class="form-group"><label class="control-label" for="id_league">League</label><select multiple="multiple" class="form-control" id="id_league" name="league" title="">
+<option value="382">Free Agents</option>
+<option value="353">Primera División</option>
+<option value="351">Hyundai A-League</option>
+<option value="350">ALJ League</option>
+<option value="349">Japan J1 League (1)</option>
+<option value="341">LIGA Bancomer MX</option>
+<option value="336">Liga Dimayor</option>
+<option value="335">Camp. Scotiabank</option>
+<option value="308">Liga NOS</option>
+<option value="189">Raiffeisen SL</option>
+<option value="111">OTP Generics</option>
+<option value="83">K LEAGUE Classic</option>
+<option value="80">Ö. Bundesliga</option>
+<option value="78">Men&#39;s National</option>
+<option value="76">Rest of World</option>
+<option value="68">Süper Lig</option>
+<option value="67">Russian League</option>
+<option value="66">Ekstraklasa</option>
+<option value="65">SSE Airtricity Lge</option>
+<option value="61">Football League 2</option>
+<option value="60">Football League 1</option>
+<option value="56">Allsvenskan</option>
+<option value="54">Liga Adelante</option>
+<option value="53">Liga BBVA</option>
+<option value="50">Scottish Prem</option>
+<option value="41">Tippeligaen</option>
+<option value="39">MLS</option>
+<option value="32">Serie B</option>
+<option value="31">Serie A TIM</option>
+<option value="20">Bundesliga 2</option>
+<option value="19">Bundesliga</option>
+<option value="17">Ligue 2</option>
+<option value="16">Ligue 1</option>
+<option value="14">FL Championship</option>
+<option value="13">Barclays PL</option>
+<option value="10">Eredivisie</option>
+<option value="7">Liga do Brasil</option>
+<option value="4">Pro League</option>
+<option value="1">Alka Superliga</option>
+</select></div>
+                
+            
+                
+                    <div class="form-group"><label class="control-label" for="id_team">Team</label><select multiple="multiple" class="form-control" id="id_team" name="team" title="">
+<option value="269">Brøndby IF</option>
+<option value="270">Silkeborg IF</option>
+<option value="271">Aarhus GF</option>
+<option value="272">Odense BK</option>
+<option value="819">FC København</option>
+<option value="820">Aalborg BK</option>
+<option value="1443">Viborg FF</option>
+<option value="1445">Esbjerg fB</option>
+<option value="1446">AC Horsens</option>
+<option value="1447">SønderjyskE</option>
+<option value="1516">FC Midtjylland</option>
+<option value="1786">Randers FC</option>
+<option value="1788">FC Nordsjælland</option>
+<option value="15001">Lyngby BK</option>
+<option value="229">RSC Anderlecht</option>
+<option value="231">Club Brugge</option>
+<option value="232">Standard Liège</option>
+<option value="670">Sp. Charleroi</option>
+<option value="673">KRC Genk</option>
+<option value="674">KAA Gent</option>
+<option value="680">Sint-Truiden</option>
+<option value="681">KVC Westerlo</option>
+<option value="682">KV Oostende</option>
+<option value="2007">Sport. Lokeren</option>
+<option value="2013">KAS Eupen</option>
+<option value="15005">Zulte-Waregem</option>
+<option value="100081">KV Kortrijk</option>
+<option value="110724">KV Mechelen</option>
+<option value="110913">Waasl. Beveren</option>
+<option value="111560">Royal Mouscron</option>
+<option value="383">Palmeiras</option>
+<option value="517">Botafogo</option>
+<option value="567">Fluminense</option>
+<option value="568">Cruzeiro</option>
+<option value="598">São Paulo</option>
+<option value="1035">Atlético Mineiro</option>
+<option value="1039">Atl. Paranaense</option>
+<option value="1048">Internacional</option>
+<option value="1053">Santos</option>
+<option value="1629">Grêmio</option>
+<option value="1719">Vitória</option>
+<option value="111043">Ponte Preta</option>
+<option value="111044">Coritiba</option>
+<option value="111045">Figueirense</option>
+<option value="111057">Sport</option>
+<option value="111058">Santa Cruz</option>
+<option value="112001">A. Minas G.</option>
+<option value="112476">Chapecoense</option>
+<option value="245">Ajax</option>
+<option value="246">Feyenoord</option>
+<option value="247">PSV</option>
+<option value="650">ADO Den Haag</option>
+<option value="1902">Roda JC</option>
+<option value="1903">FC Utrecht</option>
+<option value="1906">AZ</option>
+<option value="1907">Willem II</option>
+<option value="1908">FC Twente</option>
+<option value="1909">Vitesse</option>
+<option value="1910">N.E.C.</option>
+<option value="1913">SC Heerenveen</option>
+<option value="1914">PEC Zwolle</option>
+<option value="1915">FC Groningen</option>
+<option value="1971">Excelsior</option>
+<option value="100632">Go Ahead Eagles</option>
+<option value="100634">Heracles Almelo</option>
+<option value="100646">Sparta R&#39;dam</option>
+<option value="1">Arsenal</option>
+<option value="5">Chelsea</option>
+<option value="7">Everton</option>
+<option value="9">Liverpool</option>
+<option value="1806">Stoke City</option>
+<option value="1943">Bournemouth</option>
+<option value="1952">Hull City</option>
+<option value="1960">Swansea City</option>
+<option value="2">Aston Villa</option>
+<option value="3">Blackburn Rovers</option>
+<option value="8">Leeds United</option>
+<option value="13">Newcastle Utd</option>
+<option value="14">Nott&#39;m Forest</option>
+<option value="15">QPR</option>
+<option value="88">Birmingham City</option>
+<option value="91">Derby County</option>
+<option value="94">Ipswich</option>
+<option value="110">Wolves</option>
+<option value="144">Fulham</option>
+<option value="1792">Norwich</option>
+<option value="1793">Reading</option>
+<option value="1797">Rotherham Utd</option>
+<option value="1801">Preston</option>
+<option value="1807">Sheffield Wed</option>
+<option value="1808">Brighton</option>
+<option value="1917">Wigan Athletic</option>
+<option value="1919">Bristol City</option>
+<option value="1925">Brentford</option>
+<option value="1932">Barnsley</option>
+<option value="1939">Huddersfield</option>
+<option value="1961">Cardiff City</option>
+<option value="15015">Burton Albion</option>
+<option value="58">SC Bastia</option>
+<option value="59">Giron. Bordeaux</option>
+<option value="62">EA Guingamp</option>
+<option value="65">LOSC Lille</option>
+<option value="66">Olym. Lyonnais</option>
+<option value="68">FC Metz</option>
+<option value="69">AS Monaco</option>
+<option value="70">Montpellier HSC</option>
+<option value="71">FC Nantes</option>
+<option value="72">OGC Nice</option>
+<option value="73">PSG</option>
+<option value="74">Stade Rennais</option>
+<option value="1794">Sheffield Utd</option>
+<option value="1798">MK Dons</option>
+<option value="1800">Coventry City</option>
+<option value="1802">Gillingham</option>
+<option value="1803">Walsall</option>
+<option value="1804">Bradford City</option>
+<option value="1920">Oldham Athletic</option>
+<option value="1924">Chesterfield</option>
+<option value="1928">Port Vale</option>
+<option value="1930">Northampton</option>
+<option value="1934">Swindon Town</option>
+<option value="1938">Peterborough</option>
+<option value="1945">Bury</option>
+<option value="1949">Scunthorpe Utd</option>
+<option value="1951">Oxford United</option>
+<option value="1954">Southend United</option>
+<option value="1955">Rochdale</option>
+<option value="1962">Bristol Rovers</option>
+<option value="112259">AFC Wimbledon</option>
+<option value="112260">Fleetwood Town</option>
+<option value="92">Grimsby Town</option>
+<option value="121">Crewe Alexandra</option>
+<option value="135">Barnet</option>
+<option value="142">Doncaster</option>
+<option value="143">Exeter City</option>
+<option value="346">Yeovil Town</option>
+<option value="361">Stevenage</option>
+<option value="1480">Carlisle United</option>
+<option value="1790">Portsmouth</option>
+<option value="1923">Luton Town</option>
+<option value="1926">Blackpool</option>
+<option value="1929">Plymouth Argyle</option>
+<option value="1933">Wycombe</option>
+<option value="210">SM Caen</option>
+<option value="217">FC Lorient</option>
+<option value="219">Olym. Marseille</option>
+<option value="1530">Angers SCO</option>
+<option value="1809">Toulouse FC</option>
+<option value="1819">AS Saint-Étienne</option>
+<option value="1823">AS Nancy</option>
+<option value="110569">Dijon FCO</option>
+<option value="57">AJ Auxerre</option>
+<option value="64">RC Lens</option>
+<option value="76">RC Strasbourg</option>
+<option value="224">Nîmes Olympique</option>
+<option value="226">FC Sochaux</option>
+<option value="294">ES Troyes AC</option>
+<option value="378">Stade Brestois</option>
+<option value="379">Stade de Reims</option>
+<option value="614">AC Ajaccio</option>
+<option value="1738">Le Havre AC</option>
+<option value="1813">Cham. Niortais</option>
+<option value="1814">Stade Lavallois</option>
+<option value="1815">Clermont Foot</option>
+<option value="1816">Amiens SC</option>
+<option value="110316">GFC Ajaccio</option>
+<option value="110326">Tours FC</option>
+<option value="110456">Valenciennes FC</option>
+<option value="110576">Bourg-Péronnas</option>
+<option value="112579">Al. Petrolera</option>
+<option value="112903">Jaguares</option>
+<option value="112934">Cortuluá</option>
+<option value="112992">Atlético Bucaramanga</option>
+<option value="1028">Monarcas Morelia</option>
+<option value="1032">Monterrey</option>
+<option value="1878">Cruz Azul</option>
+<option value="1879">América</option>
+<option value="1880">Guadalajara</option>
+<option value="1881">U.N.A.M.</option>
+<option value="1882">Toluca</option>
+<option value="1970">Tigres</option>
+<option value="101114">Atlas</option>
+<option value="101121">Necaxa</option>
+<option value="110144">Santos Laguna</option>
+<option value="110145">Veracruz</option>
+<option value="110147">Pachuca</option>
+<option value="110150">Querétaro</option>
+<option value="110152">Puebla</option>
+<option value="110781">León</option>
+<option value="111678">Tijuana</option>
+<option value="112679">Chiapas</option>
+<option value="101144">Iwata</option>
+<option value="101145">Kashiwa Reysol</option>
+<option value="101146">Vissel Kobe</option>
+<option value="101147">Kashima Antlers</option>
+<option value="111273">Red Star FC</option>
+<option value="112276">US Orléans</option>
+<option value="21">FC Bayern</option>
+<option value="22">Bor. Dortmund</option>
+<option value="23">Bor. M&#39;gladbach</option>
+<option value="25">SC Freiburg</option>
+<option value="28">Hamburger SV</option>
+<option value="31">1. FC Köln</option>
+<option value="32">Bayer 04</option>
+<option value="34">FC Schalke 04</option>
+<option value="38">Werder Bremen</option>
+<option value="166">Hertha BSC</option>
+<option value="169">1. FSV Mainz 05</option>
+<option value="175">VfL Wolfsburg</option>
+<option value="1824">Eint. Frankfurt</option>
+<option value="10029">1899 Hoffenheim</option>
+<option value="100409">FC Augsburg</option>
+<option value="110502">SV Darmstadt</option>
+<option value="111239">FC Ingolstadt</option>
+<option value="112172">RB Leipzig</option>
+<option value="29">Kaiserslautern</option>
+<option value="33">1860 München</option>
+<option value="36">VfB Stuttgart</option>
+<option value="159">Arminia Bielefeld</option>
+<option value="160">VfL Bochum</option>
+<option value="165">Greuther Fürth</option>
+<option value="171">1. FC Nürnberg</option>
+<option value="485">Hannover 96</option>
+<option value="503">Dynamo Dresden</option>
+<option value="506">Erzgebirge Aue</option>
+<option value="1831">Union Berlin</option>
+<option value="1832">Karlsruher SC</option>
+<option value="110178">SV Sandhausen</option>
+<option value="110197">Würzburger Kickers</option>
+<option value="110329">FC St. Pauli</option>
+<option value="110500">Braunschweig</option>
+<option value="110636">F. Düsseldorf</option>
+<option value="111235">1. FC Heidenheim</option>
+<option value="39">Atalanta</option>
+<option value="44">Inter</option>
+<option value="45">Juventus</option>
+<option value="46">Lazio</option>
+<option value="47">Milan</option>
+<option value="48">Napoli</option>
+<option value="52">Roma</option>
+<option value="54">Torino</option>
+<option value="55">Udinese</option>
+<option value="189">Bologna</option>
+<option value="192">Chievo Verona</option>
+<option value="200">Pescara</option>
+<option value="1746">Empoli</option>
+<option value="1837">Sampdoria</option>
+<option value="1842">Cagliari</option>
+<option value="1843">Palermo</option>
+<option value="110374">Fiorentina</option>
+<option value="110556">Genoa</option>
+<option value="110734">Crotone</option>
+<option value="111974">Sassuolo</option>
+<option value="190">Brescia</option>
+<option value="199">Perugia</option>
+<option value="206">Hellas Verona</option>
+<option value="570">Terni</option>
+<option value="1847">Borgocalcio</option>
+<option value="1848">Bari</option>
+<option value="2038">Avellino</option>
+<option value="110373">Salerno</option>
+<option value="110738">Pisa</option>
+<option value="110741">La Spezia</option>
+<option value="110915">Cesena</option>
+<option value="111657">Frosinone</option>
+<option value="111993">Cittadella</option>
+<option value="112026">Benevento</option>
+<option value="112225">Novara</option>
+<option value="112398">Vercelli</option>
+<option value="112409">Carpi</option>
+<option value="112410">Trapani</option>
+<option value="112487">Latina</option>
+<option value="112791">Spal</option>
+<option value="112954">Vicenza</option>
+<option value="113147">Brisigonza</option>
+<option value="687">Columbus Crew SC</option>
+<option value="688">D.C. United</option>
+<option value="689">NY Red Bulls</option>
+<option value="691">New England</option>
+<option value="693">Chicago Fire</option>
+<option value="694">Colorado Rapids</option>
+<option value="695">FC Dallas</option>
+<option value="696">Sporting KC</option>
+<option value="697">LA Galaxy</option>
+<option value="698">Houston Dynamo</option>
+<option value="101112">Whitecaps FC</option>
+<option value="243">Real Madrid</option>
+<option value="448">Athletic Bilbao</option>
+<option value="449">Real Betis</option>
+<option value="450">Celta Vigo</option>
+<option value="452">RCD Espanyol</option>
+<option value="457">Real Sociedad</option>
+<option value="459">Sporting Gijón</option>
+<option value="461">Valencia CF</option>
+<option value="463">Deport. Alavés</option>
+<option value="467">SD Eibar</option>
+<option value="472">UD Las Palmas</option>
+<option value="479">CA Osasuna</option>
+<option value="481">Sevilla FC</option>
+<option value="483">Villarreal CF</option>
+<option value="573">Málaga CF</option>
+<option value="100888">CD Leganés</option>
+<option value="110832">Granada CF</option>
+<option value="244">Real Zaragoza</option>
+<option value="260">CD Tenerife</option>
+<option value="453">RCD Mallorca</option>
+<option value="462">Real Valladolid</option>
+<option value="468">Elche CF</option>
+<option value="477">CD Numancia</option>
+<option value="480">Rayo Vallecano</option>
+<option value="1853">Levante UD</option>
+<option value="1860">Getafe CF</option>
+<option value="1861">UD Almería</option>
+<option value="1867">Córdoba CF</option>
+<option value="1968">Cádiz C.F.</option>
+<option value="15019">Gimnàstic</option>
+<option value="100831">AD Alcorcón</option>
+<option value="110062">Girona CF</option>
+<option value="110069">CD Mirandés</option>
+<option value="110714">Sevilla Atlét.</option>
+<option value="110827">Real Oviedo</option>
+<option value="110831">CD Lugo</option>
+<option value="110839">SD Huesca</option>
+<option value="110854">CF Reus Deportiu</option>
+<option value="113216">UCAM Murcia</option>
+<option value="319">IFK Göteborg</option>
+<option value="320">Malmö FF</option>
+<option value="432">Helsingborgs IF</option>
+<option value="433">AIK</option>
+<option value="700">IF Elfsborg</option>
+<option value="702">IFK Norrköping</option>
+<option value="705">Örebro SK</option>
+<option value="708">Hammarby IF</option>
+<option value="710">Djurgårdens IF</option>
+<option value="711">BK Häcken</option>
+<option value="1439">Kalmar FF</option>
+<option value="1596">GIF Sundsvall</option>
+<option value="111277">Gefle IF</option>
+<option value="112130">Jönköpings Södra IF</option>
+<option value="112169">Falkenbergs FF</option>
+<option value="113173">Östersunds FK</option>
+<option value="4">Bolton</option>
+<option value="89">Charlton Ath</option>
+<option value="97">Millwall</option>
+<option value="127">Shrewsbury</option>
+<option value="1935">Colchester</option>
+<option value="1936">Cheltenham Town</option>
+<option value="1937">Notts County</option>
+<option value="1940">Mansfield Town</option>
+<option value="1941">Hartlepool</option>
+<option value="1944">Cambridge Utd</option>
+<option value="1958">Leyton Orient</option>
+<option value="110313">Accrington</option>
+<option value="110890">Crawley Town</option>
+<option value="112254">Newport County</option>
+<option value="306">Shamrock Rovers</option>
+<option value="422">Cork City</option>
+<option value="423">St. Pats</option>
+<option value="445">Derry City</option>
+<option value="837">Dundalk</option>
+<option value="1571">Galway United</option>
+<option value="873">Lech Poznań</option>
+<option value="874">Ruch Chorzów</option>
+<option value="1569">Wisła Płock</option>
+<option value="1871">Legia Warszawa</option>
+<option value="1873">Wisła Kraków</option>
+<option value="110565">Górnik Łęczna</option>
+<option value="110745">Jagiellonia</option>
+<option value="110746">Pogoń Szczecin</option>
+<option value="110747">Cracovia</option>
+<option value="110749">Zagłębie Lubin</option>
+<option value="111082">Arka Gdynia</option>
+<option value="111083">Korona Kielce</option>
+<option value="111086">Piast Gliwice</option>
+<option value="111091">Lechia Gdańsk</option>
+<option value="111092">Śląsk Wrocław</option>
+<option value="112510">Termalica</option>
+<option value="315">CSKA Moscow</option>
+<option value="100764">Krylya Sovetov</option>
+<option value="100765">Lokomotiv Moscow</option>
+<option value="100766">Anzhi Makhachkala</option>
+<option value="100767">Spartak Moscow</option>
+<option value="100769">Zenit</option>
+<option value="110109">Terek Grozny</option>
+<option value="110227">Rubin Kazan</option>
+<option value="110231">FC Rostov</option>
+<option value="110233">FC Tom Tomsk</option>
+<option value="110234">Amkar Perm</option>
+<option value="110756">Arsenal Tula</option>
+<option value="110822">FC Ufa</option>
+<option value="111264">FC Ural</option>
+<option value="112218">FC Krasnodar</option>
+<option value="112261">FC Orenburg</option>
+<option value="325">Galatasaray</option>
+<option value="326">Fenerbahçe</option>
+<option value="327">Beşiktaş</option>
+<option value="436">Trabzonspor</option>
+<option value="741">Antalyaspor</option>
+<option value="742">Bursaspor</option>
+<option value="101014">Medipol Başakşehir</option>
+<option value="101020">Kayserispor</option>
+<option value="101024">Gaziantepspor</option>
+<option value="101025">Gençlerbirliği</option>
+<option value="101033">Konyaspor</option>
+<option value="101037">Çaykur Rizespor</option>
+<option value="110401">Adanaspor</option>
+<option value="111339">Kasimpaşa</option>
+<option value="111340">Akhisarspor</option>
+<option value="112122">Karabükspor</option>
+<option value="112958">Osmanlıspor</option>
+<option value="113142">Aytemiz Alanyaspor</option>
+<option value="280">Olympiakos CFP</option>
+<option value="393">PAOK</option>
+<option value="569">Vasco da Gama</option>
+<option value="1884">Panathinaikos</option>
+<option value="100325">HJK Helsinki</option>
+<option value="101059">Shakhtar Donetsk</option>
+<option value="110929">Kaizer Chiefs</option>
+<option value="110930">Orlando Pirates</option>
+<option value="111042">Goiás</option>
+<option value="111046">Criciúma</option>
+<option value="111054">Joinville</option>
+<option value="111205">Classic XI</option>
+<option value="111596">MLS All Stars</option>
+<option value="111976">Avaí</option>
+<option value="112190">adidas All-Star</option>
+<option value="1318">England</option>
+<option value="1322">Austria</option>
+<option value="1325">Belgium</option>
+<option value="1327">Bulgaria</option>
+<option value="1330">Czech Republic</option>
+<option value="1331">Denmark</option>
+<option value="1334">Finland</option>
+<option value="1335">France</option>
+<option value="1337">Germany</option>
+<option value="1338">Greece</option>
+<option value="1343">Italy</option>
+<option value="1352">Norway</option>
+<option value="1353">Poland</option>
+<option value="1354">Portugal</option>
+<option value="1355">Ireland</option>
+<option value="1356">Romania</option>
+<option value="1357">Russia</option>
+<option value="1359">Scotland</option>
+<option value="1361">Slovenia</option>
+<option value="1362">Spain</option>
+<option value="1363">Sweden</option>
+<option value="1364">Switzerland</option>
+<option value="1365">Turkey</option>
+<option value="1367">Wales</option>
+<option value="1369">Argentina</option>
+<option value="1370">Brazil</option>
+<option value="1375">Paraguay</option>
+<option value="1377">Uruguay</option>
+<option value="1386">Mexico</option>
+<option value="1387">United States</option>
+<option value="1395">Cameroon</option>
+<option value="1413">China PR</option>
+<option value="1415">Australia</option>
+<option value="1886">Hungary</option>
+<option value="105035">Netherlands</option>
+<option value="110081">Northern Ireland</option>
+<option value="111099">South Africa</option>
+<option value="111108">Peru</option>
+<option value="111109">Colombia</option>
+<option value="111112">Côte d&#39;Ivoire</option>
+<option value="111130">Egypt</option>
+<option value="111451">Bolivia</option>
+<option value="111455">Canada</option>
+<option value="111459">Chile</option>
+<option value="111465">Ecuador</option>
+<option value="111466">India</option>
+<option value="111487">Venezuela</option>
+<option value="191">RB Salzburg</option>
+<option value="209">SK Sturm Graz</option>
+<option value="254">SK Rapid Wien</option>
+<option value="10">Manchester City</option>
+<option value="11">Manchester Utd</option>
+<option value="12">Middlesbrough</option>
+<option value="17">Southampton</option>
+<option value="18">Spurs</option>
+<option value="19">West Ham</option>
+<option value="95">Leicester City</option>
+<option value="106">Sunderland</option>
+<option value="109">West Brom</option>
+<option value="1795">Watford</option>
+<option value="1796">Burnley</option>
+<option value="1799">Crystal Palace</option>
+<option value="256">Austria Wien</option>
+<option value="780">SV Ried</option>
+<option value="1785">SV Mattersburg</option>
+<option value="15009">SCR Altach</option>
+<option value="111821">Admira Wacker</option>
+<option value="111822">Wolfsberger AC</option>
+<option value="112075">SKN St. Pölten</option>
+<option value="981">Seongnam FC</option>
+<option value="982">FC Seoul</option>
+<option value="983">Suwon Bluewings</option>
+<option value="1473">Ulsan Hyundai</option>
+<option value="1474">Pohang Steelers</option>
+<option value="1475">Jeonnam Dragons</option>
+<option value="1477">Jeonbuk Hyundai</option>
+<option value="1478">Jeju United</option>
+<option value="2055">Sangju Sangmu</option>
+<option value="110765">Incheon United</option>
+<option value="112258">GwangJu FC</option>
+<option value="112558">Suwon FC</option>
+<option value="286">FC Vaduz</option>
+<option value="322">Grasshopper</option>
+<option value="896">FC Basel</option>
+<option value="897">FC Luzern</option>
+<option value="898">FC St. Gallen</option>
+<option value="900">BSC Young Boys</option>
+<option value="1715">FC Thun</option>
+<option value="237">Sporting CP</option>
+<option value="518">Chaves</option>
+<option value="665">V. Setúbal</option>
+<option value="744">Rio Ave</option>
+<option value="1887">V. Guimarães</option>
+<option value="1889">Belenenses</option>
+<option value="1891">Nacional</option>
+<option value="1892">Paços Ferreira</option>
+<option value="1893">Marítimo</option>
+<option value="1896">SC Braga</option>
+<option value="1898">Boavista</option>
+<option value="1900">Moreirense</option>
+<option value="10019">F. Santa Maria</option>
+<option value="10020">Estoril Praia</option>
+<option value="112513">Arouca</option>
+<option value="112516">Tondela</option>
+<option value="15029">Uni. de Chile</option>
+<option value="101097">Audax Italiano</option>
+<option value="110975">Uni. Católica</option>
+<option value="110976">Wanderers</option>
+<option value="110977">Unión Española</option>
+<option value="110978">CD Cobresal</option>
+<option value="110980">Colo-Colo</option>
+<option value="111327">CD Huachipato</option>
+<option value="111328">CD Palestino</option>
+<option value="112116">CD O&#39;Higgins</option>
+<option value="112531">Depor. Iquique</option>
+<option value="112533">CD Antofagasta</option>
+<option value="112534">Uni. Concepción</option>
+<option value="112584">CD Everton</option>
+<option value="112668">San Luis</option>
+<option value="112709">Deportes Temuco</option>
+<option value="101100">Atl. Nacional</option>
+<option value="101101">Junior</option>
+<option value="101102">Deportivo Cali</option>
+<option value="101103">Indep. Medellín</option>
+<option value="101104">Ind. Santa Fe</option>
+<option value="101105">Millonarios</option>
+<option value="101106">Once Caldas</option>
+<option value="111722">Deportes Tolima</option>
+<option value="111723">Deportivo Pasto</option>
+<option value="112019">Boyacá Chicó</option>
+<option value="112523">La Equidad</option>
+<option value="112526">Envigado</option>
+<option value="112527">Patriotas</option>
+<option value="112528">Atlético Huila</option>
+<option value="112578">Águilas Doradas</option>
+<option value="101150">F.C. Tokyo</option>
+<option value="101151">Yokohama F·Marinos</option>
+<option value="111575">Urawa Diamonds</option>
+<option value="111730">Kawasaki Front.</option>
+<option value="112092">Nagoya</option>
+<option value="112093">Gamba Osaka</option>
+<option value="112345">Omiya Ardija</option>
+<option value="112836">Vegalta Sendai</option>
+<option value="112906">Albirex Niigata</option>
+<option value="113157">Sanfrecce Hiroshima</option>
+<option value="113160">Sagan Tosu</option>
+<option value="113161">Shonan Bellmare</option>
+<option value="113162">Ventforet Kofu</option>
+<option value="113186">Avispa Fukuoka</option>
+<option value="605">Al Hilal</option>
+<option value="607">Al Ittihad</option>
+<option value="111674">Al Shabab</option>
+<option value="112096">Al-Ettifaq</option>
+<option value="112139">Al Nassr</option>
+<option value="112387">Al Ahli</option>
+<option value="112389">Al Faisaly</option>
+<option value="112390">Al Fateh</option>
+<option value="112391">Al Qadisiyah</option>
+<option value="112392">Al Raed</option>
+<option value="112393">Al Taawoun</option>
+<option value="112408">Al Wehda</option>
+<option value="112883">Al Khaleej</option>
+<option value="112990">Al Batin</option>
+<option value="111393">Adelaide United</option>
+<option value="111395">Brisbane Roar</option>
+<option value="111396">Central Coast</option>
+<option value="111397">Melb. Victory</option>
+<option value="111398">Newcastle Jets</option>
+<option value="111399">Perth Glory</option>
+<option value="111400">Sydney FC</option>
+<option value="111766">Well. Phoenix</option>
+<option value="112224">Melbourne City</option>
+<option value="112427">WS Wanderers</option>
+<option value="1013">San Lorenzo</option>
+<option value="1876">River Plate</option>
+<option value="1877">Boca Juniors</option>
+<option value="101083">Estudiantes</option>
+<option value="101084">G. La Plata</option>
+<option value="101085">Racing Club</option>
+<option value="101088">Vélez Sarsfield</option>
+<option value="110093">Independiente</option>
+<option value="110392">Rafaela</option>
+<option value="110394">Sarandí</option>
+<option value="110395">Lanús</option>
+<option value="110396">Newell&#39;s</option>
+<option value="110398">Bahía Blanca</option>
+<option value="110404">Banfield</option>
+<option value="110406">Santa Fe</option>
+<option value="110554">Quilmes</option>
+<option value="110580">Rosario Central</option>
+<option value="110581">Patronato</option>
+<option value="111022">Belgrano</option>
+<option value="111706">Godoy Cruz</option>
+<option value="111707">Mar del Plata</option>
+<option value="111708">Atlético Tucumán</option>
+<option value="111710">Fl. Varela</option>
+<option value="111711">Parque Patricios</option>
+<option value="111713">San Juan</option>
+<option value="111715">Tigre</option>
+<option value="111716">Unión</option>
+<option value="112670">CA Talleres</option>
+<option value="112713">Junín</option>
+<option value="112904">Temperley</option>
+<option value="112428">Create Player</option>
+<option value="112">Away</option>
+<option value="111">Home</option>
+<option value="112264">Youth Squad</option>
+<option value="111592">Free Agents</option>
+<option value="111065">Real Salt Lake</option>
+<option value="111139">Montreal Impact</option>
+<option value="111140">Portland</option>
+<option value="111144">Sounders FC</option>
+<option value="111651">Toronto FC</option>
+<option value="111928">SJ Earthquakes</option>
+<option value="112134">Philadelphia</option>
+<option value="112606">Orlando City</option>
+<option value="112828">NYCFC</option>
+<option value="298">Rosenborg BK</option>
+<option value="299">Lillestrøm SK</option>
+<option value="300">Viking FK</option>
+<option value="417">Molde FK</option>
+<option value="418">Tromsø IL</option>
+<option value="917">Stabæk Fotball</option>
+<option value="918">FK Bodø/Glimt</option>
+<option value="919">SK Brann</option>
+<option value="920">Vålerenga Fotball</option>
+<option value="922">Strømsgodset IF</option>
+<option value="1456">Odds BK</option>
+<option value="1463">FK Haugesund</option>
+<option value="1465">Sogndal</option>
+<option value="1524">IK Start</option>
+<option value="1755">Aalesunds FK</option>
+<option value="112199">Sarpsborg 08 FF</option>
+<option value="77">Aberdeen</option>
+<option value="78">Celtic</option>
+<option value="80">Hearts</option>
+<option value="82">Kilmarnock</option>
+<option value="83">Motherwell</option>
+<option value="86">Rangers</option>
+<option value="180">Dundee FC</option>
+<option value="184">Hamilton</option>
+<option value="620">Inverness CT</option>
+<option value="631">Ross County</option>
+<option value="1754">Partick Thistle</option>
+<option value="100804">St. Johnstone</option>
+<option value="240">Atlético Madrid</option>
+<option value="241">FC Barcelona</option>
+<option value="242">RC Deportivo</option>
+<option value="111072">World XI</option>
+<option value="1862">FC Lausanne</option>
+<option value="10032">FC Lugano</option>
+<option value="110770">FC Sion</option>
+<option value="234">SL Benfica</option>
+<option value="236">FC Porto</option>
+<option value="111968">Wexford Youths</option>
+<option value="111131">Finn Harps</option>
+<option value="1586">Longford Town</option>
+<option value="838">Bray Wanderers</option>
+<option value="563">Sligo Rovers</option>
+<option value="305">Bohemian FC</option>
+<option value="112834">Fortaleza FC</option>
+<option value="357">Morecambe</option>
+</select></div>
+                
+            
+                
+                    <div class="form-group"><label class="control-label" for="id_preferredfoot">Preferred Foot</label><select class="form-control" id="id_preferredfoot" name="preferredfoot" title="">
+<option value="-1"></option>
+<option value="1">Right</option>
+<option value="2">Left</option>
+</select></div>
+                
+            
+                
+                    <div class="form-group"><label class="control-label" for="id_weakfootabilitytypecode">Weak Foot</label><select class="form-control" id="id_weakfootabilitytypecode" name="weakfootabilitytypecode" title="">
+<option value="-1"></option>
+<option value="5">★★★★★</option>
+<option value="4">★★★★</option>
+<option value="3">★★★</option>
+<option value="2">★★</option>
+<option value="1">★</option>
+</select></div>
+                
+            
+                
+                    <div class="form-group"><label class="control-label" for="id_skillmoves">Skill Moves</label><select class="form-control" id="id_skillmoves" name="skillmoves" title="">
+<option value="-1"></option>
+<option value="4">★★★★★</option>
+<option value="3">★★★★</option>
+<option value="2">★★★</option>
+<option value="1">★★</option>
+<option value="0">★</option>
+</select></div>
+                
+            
+                
+                    <div class="form-group"><label class="control-label" for="id_order"><select data-placeholder="Sort By" class="form-control order_by" id="id_order_by" name="order_by"><option value="-1">Sort By</option><option value="age">Age</option><option value="overallrating">Overall Rating</option><option value="potential">Potential</option><option value="growth">Growth</option><option value="height">Height</option><option value="weight">Weight</option><option value="acceleration">Acceleration</option><option value="aggression">Aggression</option><option value="agility">Agility</option><option value="balance">Balance</option><option value="ballcontrol">Ball Control</option><option value="crossing">Crossing</option><option value="curve">Curve</option><option value="dribbling">Dribbling</option><option value="finishing">Finishing</option><option value="freekickaccuracy">FK Acc.</option><option value="headingaccuracy">Heading</option><option value="jumping">Jumping</option><option value="longpassing">Long Pass</option><option value="longshots">Long Shots</option><option value="marking">Marking</option><option value="penalties">Penalties</option><option value="positioning">Att. Position</option><option value="reactions">Reactions</option><option value="shortpassing">Short Pass</option><option value="shotpower">Shot Power</option><option value="slidingtackle">Slide Tackle</option><option value="sprintspeed">Sprint Speed</option><option value="stamina">Stamina</option><option value="standingtackle">Stand Tackle</option><option value="strength">Strength</option><option value="interceptions">Interceptions</option><option value="vision">Vision</option><option value="volleys">Volleys</option><option value="gkdiving">GK Diving</option><option value="gkhandling">GK Handling</option><option value="gkkicking">GK Kicking</option><option value="gkpositioning">GK Positioning</option><option value="gkreflexes">GK Reflexes</option><option value="composure">Composure</option></select></label><select class="form-control" id="id_order" name="order" title="">
+<option value="0">Descending</option>
+<option value="1">Ascending</option>
+</select></div>
+                
+            
+                
+                    <input id="id_gender" name="gender" type="hidden" />
+                
+            
+                
+                    <input id="id_status" name="status" type="hidden" />
+                
+            
+                
+                    <div id="extra_filter">
+                        <div class="form-group"><label class="control-label" for="id_filter_0"><select data-placeholder="Select Option" class="form-control filter" id="id_filter" name="filter"><option value="-1">Select Option</option><option value="age">Age</option><option value="overallrating">Overall Rating</option><option value="potential">Potential</option><option value="growth">Growth</option><option value="height">Height</option><option value="weight">Weight</option><option value="acceleration">Acceleration</option><option value="aggression">Aggression</option><option value="agility">Agility</option><option value="balance">Balance</option><option value="ballcontrol">Ball Control</option><option value="crossing">Crossing</option><option value="curve">Curve</option><option value="dribbling">Dribbling</option><option value="finishing">Finishing</option><option value="freekickaccuracy">FK Acc.</option><option value="headingaccuracy">Heading</option><option value="jumping">Jumping</option><option value="longpassing">Long Pass</option><option value="longshots">Long Shots</option><option value="marking">Marking</option><option value="penalties">Penalties</option><option value="positioning">Att. Position</option><option value="reactions">Reactions</option><option value="shortpassing">Short Pass</option><option value="shotpower">Shot Power</option><option value="slidingtackle">Slide Tackle</option><option value="sprintspeed">Sprint Speed</option><option value="stamina">Stamina</option><option value="standingtackle">Stand Tackle</option><option value="strength">Strength</option><option value="interceptions">Interceptions</option><option value="vision">Vision</option><option value="volleys">Volleys</option><option value="gkdiving">GK Diving</option><option value="gkhandling">GK Handling</option><option value="gkkicking">GK Kicking</option><option value="gkpositioning">GK Positioning</option><option value="gkreflexes">GK Reflexes</option><option value="composure">Composure</option></select></label><input class="form-control" id="id_filter_0" name="filter_0" title="" type="number" /><input class="form-control" id="id_filter_1" name="filter_1" title="" type="number" /></div>
+                    </div>
+                
+            
+
+            <div class="form-group">
+                <div class="btn-group btn-group-sm" role="group">
+                
+
+                
+                    <button id="add_filter" class="btn btn-default" type="button">
+                        <span class="glyphicon glyphicon-plus-sign" aria-hidden="true"></span>
+                        Add Filter
+                    </button>
+                
+
+                
+                    <button class="btn btn-default" type="submit">
+                        <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                        Search
+                    </button>
+                
+                </div>
+            </div>
+        </form>
+    
+
+
+
+
+
+
+
+
+
+    
+        <div class="row"><div class="col-xs-12">
+        <div class="content">
+        <h1>Player Stats Raphaël Varane</h1>
+        
+            <p>Raphaël Varane was born on April 25, 1993.                 He is currently 24 years old and plays as a centre back for Real Madrid in Spain. His overall rating in FIFA 17 is 84 with a potential of 91. Varane has got a 2-star skillmoves rating. He prefers to shoot with his right foot. </p>
+        
+            <p>His workrates are Medium / High. Varane&#39;s height is 191 cm and his weight is estimated at 78 kg according to our database. Currently, Raphaël Varane is playing with number 5. His best stats are: stand tackle 86, slide tackle 85, marking 84, strength 84, sprint speed 83.</p>
+        
+        </div>
+        </div></div>
+    
+
+
+
+        <div class="text-center visible-xs" style="margin-top:40px;margin-bottom:40px;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1084869347367097"
+     data-ad-slot="2623930369"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+    
+
+    
+        <div class="text-center hidden-xs" style="margin-top:40px;margin-bottom:10px;">
+            <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+ style="display:inline-block;width:300px;height:600px"
+ data-ad-client="ca-pub-1084869347367097"
+ data-ad-slot="1153759963"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+    
+</div>
+
+    
+<div class="col-md-8">
+    
+
+
+<ol class="breadcrumb">
+  <li><a href="/">Home</a></li>
+
+  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">FIFA 17 <span class="caret"></span></a>
+    <ul class="dropdown-menu">
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/">FIFA 17</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa16_73/">FIFA 16</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa15_14/">FIFA 15</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa14_13/">FIFA 14</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa13_10/">FIFA 13</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa12_9/">FIFA 12</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa11_7/">FIFA 11</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa10_6/">FIFA 10</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa09_5/">FIFA 09</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa08_4/">FIFA 08</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa07_3/">FIFA 07</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa06_2/">FIFA 06</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa05_1/">FIFA 05</a></li>
+        
+      </ul>
+    </li>
+
+    <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">April 27, 2017 <span class="caret"></span></a>
+      <ul class="dropdown-menu">
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/">April 27, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_131/">April 24, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_130/">April 20, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_129/">April 18, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_128/">April 13, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_127/">April 10, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_126/">April 6, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_125/">April 3, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_124/">March 30, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_123/">March 27, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_122/">March 23, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_121/">March 20, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_120/">March 16, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_119/">March 13, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_118/">March 9, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_117/">March 6, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_116/">March 2, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_115/">Feb. 27, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_114/">Feb. 22, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_113/">Feb. 20, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_112/">Feb. 16, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_111/">Feb. 14, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_110/">Feb. 9, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_109/">Feb. 6, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_108/">Feb. 2, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_107/">Jan. 30, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_106/">Jan. 26, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_105/">Jan. 23, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_104/">Jan. 19, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_103/">Jan. 17, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_102/">Jan. 16, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_101/">Jan. 12, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_100/">Jan. 9, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_99/">Jan. 5, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_98/">Jan. 3, 2017</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_97/">Dec. 27, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_96/">Dec. 22, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_95/">Dec. 19, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_94/">Dec. 15, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_93/">Dec. 12, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_92/">Dec. 8, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_91/">Dec. 5, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_90/">Dec. 1, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_89/">Nov. 28, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_88/">Nov. 24, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_87/">Nov. 21, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_86/">Nov. 17, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_85/">Nov. 14, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_84/">Nov. 10, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_83/">Nov. 7, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_82/">Nov. 3, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_81/">Oct. 31, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_80/">Oct. 27, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_79/">Oct. 19, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_78/">Oct. 13, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_77/">Oct. 6, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_76/">Sept. 29, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_75/">Sept. 20, 2016</a></li>
+        
+            <li><a href="/player/201535/rapha%C3%ABl-varane/fifa17_74/">Aug. 25, 2016</a></li>
+        
+      </ul>
+    </li>
+
+    
+    
+
+    
+
+    
+
+    
+        <li><a href="/players/">Players</a></li>
+        <li class="active">Raphaël Varane</li>
+    
+
+</ol>
+    <div class="row">
+        <div class="col-lg-7 col-sm-6">
+            <div class="media">
+              <div class="media-left photo">
+                  <img src="/static/FIFA17/images/players/128/201535.png" alt="Raphaël Varane" title="Raphaël Varane" class="player normal" />
+              </div>
+              <div class="media-body media-middle">
+                <h2 class="media-heading big">Raphaël Varane</h2>
+                <h2 class="subtitle"><img src="/static/FIFA16/images/flags/50/18.png" alt="France" title="France" class="nation small" /><a href="/players/?nationality=18" title="France">France</a></h2>
+              </div>
+            </div>
+        </div>
+        <div class="col-lg-5 col-sm-6">
+            <div class="panel panel-info">
+              <div class="panel-heading">
+                <h3 class="panel-title">Raphaël Varane <span class="pull-right"><span class="label rating r2">84</span> <span class="label rating r1">91</span></span></h3>
+              </div>
+              <div class="panel-body">
+                
+                    <p>Height <span class="pull-right">191 cm</span></p>
+                
+                    <p>Weight <span class="pull-right">78 kg</span></p>
+                
+                    <p>Preferred Foot <span class="pull-right">Right</span></p>
+                
+                    <p>Birth Date <span class="pull-right">04/25/1993</span></p>
+                
+                    <p>Age <span class="pull-right">24</span></p>
+                
+                    <p>Preferred Positions <span class="pull-right"><a href="/players/?position=5" title="CB"><span class="label position cb">CB</span></a></span></p>
+                
+                    <p>Player Work Rate <span class="pull-right">Medium / High</span></p>
+                
+                    <p>Weak Foot <span class="pull-right"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></span></p>
+                
+                    <p>Skill Moves <span class="pull-right"><span class="star"><i class="fa fa-star fa-lg"></i><i class="fa fa-star fa-lg"></i><i class="fa fa-star-o fa-lg"></i><i class="fa fa-star-o fa-lg"></i><i class="fa fa-star-o fa-lg"></i></span></span></p>
+                
+              </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        
+            <div class="col-lg-4 col-md-5 col-sm-6 col-ms-6 col-xs-12 team">
+                <div class="panel panel-info">
+                  <div class="panel-heading">
+                    <h3 class="panel-title"><a href="/team/243/real-madrid/" title="Real Madrid"><img src="/static/FIFA17/images/crest/50/light/243.png" alt="Real Madrid" title="Real Madrid" class="team small" /></a> <a href="/team/243/real-madrid/" title="Real Madrid">Real Madrid</a></h3>
+                  </div>
+                  <div class="panel-body"><p>Position <span class="pull-right"><span class="label position sub">Sub</span></span></p><p>Kit Number <span class="pull-right">5</span></p><p>Joined Club <span class="pull-right">07/01/2011</span></p><p>Contract Length <span class="pull-right">2020</span></p></div>
+                </div>
+            </div>
+        
+    </div>
+    <div class="row grid">
+        
+            <div class="col-sm-4 col-ms-6 col-xs-12 item">
+                <div class="panel panel-info">
+                  <div class="panel-heading">
+                    <h3 class="panel-title">Ball Skills</h3>
+                  </div>
+                  <div class="panel-body">
+                    
+                        <p>Ball Control <span class="pull-right"><span class="label rating r3">75</span></span></p>
+                    
+                        <p>Dribbling <span class="pull-right"><span class="label rating r4">57</span></span></p>
+                    
+                  </div>
+                </div>
+            </div>
+
+            
+            
+        
+            <div class="col-sm-4 col-ms-6 col-xs-12 item">
+                <div class="panel panel-info">
+                  <div class="panel-heading">
+                    <h3 class="panel-title">Defence</h3>
+                  </div>
+                  <div class="panel-body">
+                    
+                        <p>Marking <span class="pull-right"><span class="label rating r2">84</span></span></p>
+                    
+                        <p>Slide Tackle <span class="pull-right"><span class="label rating r2">85</span></span></p>
+                    
+                        <p>Stand Tackle <span class="pull-right"><span class="label rating r2">86</span></span></p>
+                    
+                  </div>
+                </div>
+            </div>
+
+            
+            
+        
+            <div class="col-sm-4 col-ms-6 col-xs-12 item">
+                <div class="panel panel-info">
+                  <div class="panel-heading">
+                    <h3 class="panel-title">Mental</h3>
+                  </div>
+                  <div class="panel-body">
+                    
+                        <p>Aggression <span class="pull-right"><span class="label rating r3">73</span></span></p>
+                    
+                        <p>Reactions <span class="pull-right"><span class="label rating r3">79</span></span></p>
+                    
+                        <p>Att. Position <span class="pull-right"><span class="label rating r5">44</span></span></p>
+                    
+                        <p>Interceptions <span class="pull-right"><span class="label rating r2">82</span></span></p>
+                    
+                        <p>Vision <span class="pull-right"><span class="label rating r4">56</span></span></p>
+                    
+                        <p>Composure <span class="pull-right"><span class="label rating r3">66</span></span></p>
+                    
+                  </div>
+                </div>
+            </div>
+
+            
+            
+        
+            <div class="col-sm-4 col-ms-6 col-xs-12 item">
+                <div class="panel panel-info">
+                  <div class="panel-heading">
+                    <h3 class="panel-title">Passing</h3>
+                  </div>
+                  <div class="panel-body">
+                    
+                        <p>Crossing <span class="pull-right"><span class="label rating r5">36</span></span></p>
+                    
+                        <p>Short Pass <span class="pull-right"><span class="label rating r3">72</span></span></p>
+                    
+                        <p>Long Pass <span class="pull-right"><span class="label rating r3">74</span></span></p>
+                    
+                  </div>
+                </div>
+            </div>
+
+            
+            
+                <div class="col-xs-12 item visible-xs text-center" style="margin-bottom:10px;">
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1084869347367097"
+     data-ad-slot="4100663568"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                </div>
+            
+        
+            <div class="col-sm-4 col-ms-6 col-xs-12 item">
+                <div class="panel panel-info">
+                  <div class="panel-heading">
+                    <h3 class="panel-title">Physical</h3>
+                  </div>
+                  <div class="panel-body">
+                    
+                        <p>Acceleration <span class="pull-right"><span class="label rating r2">80</span></span></p>
+                    
+                        <p>Stamina <span class="pull-right"><span class="label rating r3">70</span></span></p>
+                    
+                        <p>Strength <span class="pull-right"><span class="label rating r2">84</span></span></p>
+                    
+                        <p>Balance <span class="pull-right"><span class="label rating r5">47</span></span></p>
+                    
+                        <p>Sprint Speed <span class="pull-right"><span class="label rating r2">83</span></span></p>
+                    
+                        <p>Agility <span class="pull-right"><span class="label rating r4">58</span></span></p>
+                    
+                        <p>Jumping <span class="pull-right"><span class="label rating r3">79</span></span></p>
+                    
+                  </div>
+                </div>
+            </div>
+
+            
+            
+        
+            <div class="col-sm-4 col-ms-6 col-xs-12 item">
+                <div class="panel panel-info">
+                  <div class="panel-heading">
+                    <h3 class="panel-title">Shooting</h3>
+                  </div>
+                  <div class="panel-body">
+                    
+                        <p>Heading <span class="pull-right"><span class="label rating r2">83</span></span></p>
+                    
+                        <p>Shot Power <span class="pull-right"><span class="label rating r4">52</span></span></p>
+                    
+                        <p>Finishing <span class="pull-right"><span class="label rating r5">40</span></span></p>
+                    
+                        <p>Long Shots <span class="pull-right"><span class="label rating r4">53</span></span></p>
+                    
+                        <p>Curve <span class="pull-right"><span class="label rating r5">46</span></span></p>
+                    
+                        <p>FK Acc. <span class="pull-right"><span class="label rating r4">54</span></span></p>
+                    
+                        <p>Penalties <span class="pull-right"><span class="label rating r5">43</span></span></p>
+                    
+                        <p>Volleys <span class="pull-right"><span class="label rating r5">42</span></span></p>
+                    
+                  </div>
+                </div>
+            </div>
+
+            
+            
+        
+            <div class="col-sm-4 col-ms-6 col-xs-12 item">
+                <div class="panel panel-info">
+                  <div class="panel-heading">
+                    <h3 class="panel-title">Goalkeeper</h3>
+                  </div>
+                  <div class="panel-body">
+                    
+                        <p>GK Positioning <span class="pull-right"><span class="label rating r5">5</span></span></p>
+                    
+                        <p>GK Diving <span class="pull-right"><span class="label rating r5">11</span></span></p>
+                    
+                        <p>GK Handling <span class="pull-right"><span class="label rating r5">11</span></span></p>
+                    
+                        <p>GK Kicking <span class="pull-right"><span class="label rating r5">9</span></span></p>
+                    
+                        <p>GK Reflexes <span class="pull-right"><span class="label rating r5">14</span></span></p>
+                    
+                  </div>
+                </div>
+            </div>
+
+            
+            
+        
+    </div>
+    
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+    var disqus_config = function () {
+      this.language = 'en';
+    };
+        var disqus_shortname = 'fifaindex';
+        var disqus_identifier = 'player_201535_FIFA_17';
+        var disqus_url = 'https://www.fifaindex.com/player/201535/rapha%C3%ABl-varane/';
+        var disqus_title = 'Raphaël Varane - FIFA 17';
+
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+    
+</div>
+<script type="text/javascript">
+ga('send', 'event', 'page', 'view', 'player_detail');
+</script>
+
+</div>
+
+    </div><!-- /.container -->
+
+      <div class="container">
+          <div class="row">
+              <footer class="footer text-center text-muted">
+                <p>© www.fifaindex.com 2017 - <a href="/tos.pdf" target="_blank">Terms Of Service</a> - <a href="/cookies/">Cookie Policy</a></p>
+            </footer>
+          </div>
+      </div>
+
+    
+    
+    <script type="text/javascript" src="/static/CACHE/js/5125a14916a2.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            $('input[type="number"]:first-of-type').attr('placeholder', 'min');
+            $('input[type="number"]:last-of-type').attr('placeholder', 'max');
+
+            
+            bidi = false;
+            
+            select_option = "Select Option";
+            add_player = "Add Player";
+            remove_squad_confirmation = "Are you sure you want to delete this team sheet?";
+        });
+
+        if (typeof uid != 'undefined'){
+            $('.logged-in').addClass('show');
+            $('.uid-'+uid).addClass('show');
+            $('.username').html(username);
+            $('a.my-squads').attr('href', mysquads);
+        } else {
+            $('.not-logged-in').addClass('show');
+        }
+
+        if (typeof messages != 'undefined') {
+            messages.forEach(function (message){
+                html = '<div class="alert alert-'+message.type+' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>'+message.message+'</div>';
+                $('.messages').append(html);
+            });
+        }
+    </script>
+    <script type="text/javascript" src="/static/CACHE/js/699c6184adb2.js"></script>
+    
+  </body>
+</html>
+
